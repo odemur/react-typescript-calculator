@@ -1,6 +1,6 @@
 # React Calculator (TypeScript)
 
-This project is part of the Free Code Camp's front-end track. Created with create-react-app. 
+This project is part of the Free Code Camp's front-end. 
 See the full [create-react-app guide](https://github.com/facebook/create-react-app/blob/main/packages/cra-template/template/README.md)
 
 ## Available Scripts
